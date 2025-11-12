@@ -56,3 +56,21 @@ GitHub Discussionsの投稿画面で送信ボタンが無効化され、GitHub C
 ### 対処
 - Issuesにて同内容を投稿し、公開調査を継続
 - このエラーを妨害痕跡の一部として記録
+## Meta（Facebook・Instagram）への報告状況
+
+### 報告対象
+- Facebookアカウント：@kentaro_yamada
+- Instagramアカウント：@kentaro_artworks
+
+### 報告内容
+- アカウント乗っ取り未遂の痕跡（UI妨害、異常ログイン要求）
+- 端末側の痕跡ファイル：`activity_state.txt`, `ui_anomaly_log.txt`
+- 完全オフライン状態でも操作された異常挙動
+- GitHub上で公開調査中（照合表・証拠ZIPあり）
+
+### 報告先
+- Facebook公式： https://www.facebook.com/hacked
+- Instagramアプリ内：問題報告 → 不正アクセス
+
+### 備考
+Meta側の対応状況は今後追記予定
